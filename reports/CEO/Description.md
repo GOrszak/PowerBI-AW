@@ -147,7 +147,7 @@ The CEO dashboards enable:
 
 
 
-![CEO Profitability & Shipment Dashboard Overview](Screenshot' '2025-06-08' '231156.png)
+![CEO Profitability & Shipment Dashboard Overview](dashboard2.png)
 
 # Dashboard 2: CEO Profitability & Shipment
 
