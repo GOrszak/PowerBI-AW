@@ -8,7 +8,6 @@ This Power BI project delivers an end-to-end business intelligence solution for 
 
 * **AdventureWorks2017 OLTP**: Downloaded from the official Microsoft sample repository: [AdventureWorks2017 Installation & Configuration](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms)
 * **AW Quota.xlsx**: Quarterly sales quota data.
-* **ExchangeRates.csv**: Static USD→local currency exchange rates.
 * **Validation Reports.xlsx**: Example verification reports provided by the business.
 
 ## Data Preparation & Adjustments
@@ -37,13 +36,11 @@ To introduce realistic data-quality challenges, the provided SQL script (`script
 ├── AdventureWorks2017.bak              # SQL Server backup
 ├── scripts/
 │   └── AW-2017.update_script.sql      # Data-prep & complexity script
-├── data/
+├── additional_data/
 │   ├── AW Quota.xlsx                  # Sales quota reference
-│   ├── ShippingMethod.csv             # Shipping lookup
-│   ├── ExchangeRates.csv              # USD-to-local exchange rates
 │   └── Validation Reports.xlsx        # Business verification samples
-├── CEO_Internet_Resellers.pbix        # Power BI report file
-├── images/
+├── Adventure Works Gabriel Orszak_Measure_Killer.pbix        # Power BI report file
+├── reports/
 │   └── screenshot.png                 # Sample dashboard preview
 └── README.md                          # Project overview and instructions
 ```
@@ -58,19 +55,11 @@ To introduce realistic data-quality challenges, the provided SQL script (`script
    * Run `scripts/AW-2017.update_script.sql` against the restored database.
 3. **Open Report**
 
-   * Launch `CEO_Internet_Resellers.pbix` in Power BI Desktop (v2.XX+) and update the data source to your SQL connection.
+   * Launch `Adventure Works Gabriel Orszak_Measure_Killer.pbix` in Power BI Desktop (v2.XX+) and update the data source to your SQL connection.
 4. **Explore & Analyze**
 
    * Use slicers, bookmarks, and visuals to investigate sales, margins, quotas, and shipping KPIs.
 
-
-
-## Performance Optimization
-
-* To ensure peak report responsiveness, the **Measure Killer** tool was employed to analyze and streamline DAX measures, reducing redundant calculations and improving overall query performance.
-
-
 ---
 
 *This solution demonstrates best practices in data modeling, DAX calculations, and report design tailored to Adventure Works Cycles’ business needs.*
-
