@@ -145,6 +145,144 @@ The CEO dashboards enable:
 - Clear identification of strengths (Internet growth, NA leadership) and risks (Reseller losses, missed targets)
 - Strategic planning with integrated sales and profit forecasting
 
+
+
+![CEO Profitability & Shipment Dashboard Overview](Screenshot 2025-06-08 231156.png)
+
+# Dashboard 2: CEO Profitability & Shipment
+
+**Figure:** CEO Profitability & Shipment dashboard, focusing on profit drivers and on-time delivery.
+
+This updated dashboard highlights profitability across channels (Reseller vs. Internet) and operational efficiency in shipments. The top section displays key performance indicators for on-time shipping, sales growth, sales volume, and profit by channel (Internet vs Reseller). Visuals include quarterly sales vs. profit trends, sales and profit by salesperson, on-time delivery trends (12-month rolling), regional on-time performance, and a product category profit breakdown. Together, these insights help identify where the company is making or losing money and whether shipping operations meet targets.
+
 ---
 
-*For more details, see dashboard image above or refer to the Power BI report.*
+## Purpose
+
+The **CEO Profitability & Shipment dashboard** provides a focused view on profitability and operational shipping performance. While the first dashboard compared channels and overall sales, this dashboard drills into profit contributions (by channel, product, and salesperson) alongside on-time delivery KPIs.
+
+**Key Questions Answered:**
+- Where are we making or losing profit?
+- Are we delivering on time?
+
+---
+
+## KPI Overview (Profitability & Delivery Performance)
+
+| Metric                   | Value (YTD)         | Previous Period      | Note                                                       |
+|--------------------------|---------------------|---------------------|------------------------------------------------------------|
+| On-Time Shipping         | 98.0%               | Benchmark: 97.0%    | Exceeds target, strong operations                          |
+| Sales Growth (YoY)       | +28.7%              | -                   | Robust growth vs last year                                 |
+| Sales Orders YTD         | 23,202              | 4,845               | Volume up sharply, operational capacity tested             |
+| Reseller Profit YTD      | –$0.2M              | –$1.2M              | Loss reduced, but still negative                           |
+| Reseller Sales YTD       | $29.4M              | $28.8M              | Slight increase                                            |
+| Internet Profit YTD      | $6.5M               | $2.2M               | Nearly 3× growth, strong online channel                    |
+| Internet Sales YTD       | $15.6M              | $6.2M               | Doubled YoY, drives sales growth                           |
+
+- **Color coding:**  
+  - Dark green: Favorable/improvement (e.g., on-time % above target, profit increases)
+  - Dark red: Underperformance (e.g., negative profit, metrics below benchmark)
+
+---
+
+### Business Questions Answered
+
+- Are shipments being delivered on time, and how do we compare to the on-time target?
+- How does our current sales growth compare to last year?
+- Is the Reseller channel now profitable? How does it compare to Internet in profit contribution?
+- How many orders have we processed vs. last year, and can our operations handle the surge?
+
+---
+
+## Quarterly Sales & Profit Trend
+
+- **Sales & Profit by Fiscal Quarter (2011 Q4 – 2014 Q4):**  
+  - Clustered bar & line chart: bars = total sales per quarter, line = profit.
+  - Sales peaked Q4 2013–Q1 2014 ($12–13M); Q4 2014 dropped to $7M.
+  - Profit line follows sales, peaking at ~$1.8M early 2014, and improving year-over-year.
+  - 2014 full-year profit margin: ~13.9% (vs. ~2.8% prior year).
+  - Higher sales volume and better cost management drove stronger bottom line in 2014.
+
+---
+
+## Salesperson Performance (Sales YTD vs. Profit YTD)
+
+- **Sales by Salesperson (YTD):**  
+  - Top: Linda Mitchell ($5.7M), Tete Mensa-Annan ($4.7M), Jae Pak ($4.6M).
+  - Average sales indicated with reference line.
+
+- **Profit by Salesperson (YTD):**
+  - Only a few reps have positive profit (green bars).
+  - Most reps are negative (red bars).
+    - Example: Tete Mensa-Annan leads profit (+$13K), Linda Mitchell's sales lost –$78K.
+  - Average profit per rep is below zero.
+  - *Insight:* High sales ≠ high profitability. Points to issues like discounting or high-cost products.
+
+---
+
+## On-Time Delivery Performance
+
+- **Rolling 12-Month On-Time Delivery %:**  
+  - Line chart, mostly in high 90s, showing consistent, excellent performance.
+  - Dips to 97% briefly, then rebounds to 98%+.
+  - Benchmark (orange line): 97%. Most months meet or exceed target.
+  - *Takeaway:* Operations keep up with increased volume and maintain high standards.
+
+- **On-Time Delivery by Region & Territory:**
+  - North America: ~99%
+  - Europe: ~98%
+  - Pacific: 96–97% (slightly below target)
+  - *Action:* Investigate Pacific region for possible improvement (e.g., carriers, customs).
+
+---
+
+## Sales Profile by Product Category
+
+| Category      | Sales YTD | Profit YTD | % of Total Profit | Profit Margin |
+|---------------|-----------|------------|-------------------|--------------|
+| **Bikes**     | $38.46M   | $5.22M     | 83.7%             | 13.6%        |
+| Accessories   | $1.01M    | $0.55M     | 8.8%              | 54.1%        |
+| Components    | $4.45M    | $0.28M     | 4.5%              | 6.3%         |
+| Clothing      | $1.09M    | $0.19M     | 3.0%              | 17.5%        |
+| **Total**     | $45.00M   | $6.24M     | 100%              | 13.9%        |
+
+- **Bikes:** Main revenue/profit driver (84% of profit), but only moderate margin (13.6%).
+- **Accessories:** Small in sales, very high margin (54%). Big profit potential if grown.
+- **Components:** Moderate revenue, low margin (6.3%).
+- **Clothing:** Small category, modest margin (17.5%).
+- *Key insight:* Bikes fuel the business, but Accessories are the most lucrative per sale.
+
+---
+
+## Strategic Recommendations
+
+1. **Bolster Online Channel:**  
+   - Internet profit jumped to $6.5M YTD.
+   - Continue investing in e-commerce, digital, and fulfillment.
+   - Ensure infrastructure supports surging online order volume.
+
+2. **Reform Reseller Channel:**  
+   - Loss improved but still negative (–$0.2M).
+   - Deep dive into unprofitable deals: discounting, cost, mix.
+   - Revise pricing/incentives; focus on profitable sales.
+
+3. **Sales Team Coaching & Incentives:**  
+   - Address profit disparities per salesperson.
+   - Train for value/margin selling, adjust commissions to reward profit over volume.
+   - Review and correct unprofitable deals early.
+
+4. **Leverage On-Time Delivery:**  
+   - 98%+ on-time rate is a competitive advantage; promote in marketing.
+   - Investigate Pacific region’s delays to raise performance globally.
+
+5. **Optimize Product Portfolio:**  
+   - Grow high-margin Accessories (bundles, promos).
+   - Improve Bike margins (cost, premium products).
+   - Review low-margin Components for price/strategy.
+
+---
+
+**Summary:**  
+Dashboard 2 pinpoints the sources of profit and operational excellence. By focusing on profitable channels, correcting unprofitable practices, and maintaining delivery standards, the company can ensure sustained, efficient, and profitable growth.
+
+
