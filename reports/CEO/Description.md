@@ -147,7 +147,7 @@ The CEO dashboards enable:
 
 
 
-![CEO Profitability & Shipment Dashboard Overview](Screenshot 2025-06-08 231156.png)
+![CEO Profitability & Shipment Dashboard Overview](dashboard2.png)
 
 # Dashboard 2: CEO Profitability & Shipment
 
@@ -285,4 +285,31 @@ The **CEO Profitability & Shipment dashboard** provides a focused view on profit
 **Summary:**  
 Dashboard 2 pinpoints the sources of profit and operational excellence. By focusing on profitable channels, correcting unprofitable practices, and maintaining delivery standards, the company can ensure sustained, efficient, and profitable growth.
 
+
+
+---
+
+## Strategic Recommendations
+
+Based on the dashboard analysis, here are the key strategic recommendations for the business:
+
+1. **Pivot More Aggressively to Online Sales:**  
+   Continue to invest in and prioritize the Internet sales channel. Internet sales are growing fast and yielding strong profits, while reseller sales are stagnating or losing money. The company should leverage what’s working in North America’s online strategy (since NA is leading with almost half of sales coming from online) and replicate that success in other regions. This could involve expanding e-commerce marketing, improving the online customer experience, or reallocating resources from reseller operations to online initiatives. Emphasizing online sales will likely improve overall profitability and growth.
+
+2. **Reevaluate Sales Targets and Market Assumptions:**  
+   The fact that the YTD sales target was not met despite nearly 30% growth suggests targets may have been set unrealistically high or there were execution issues. The CEO should revise future targets to be ambitious yet attainable, taking into account market conditions and the performance trends seen (e.g., the slowdown in late 2014). Additionally, address any causes of the Q4 drop – e.g., supply issues, market saturation, or competitive factors – to avoid repeat shortfalls. Setting the right targets will help align the organization’s expectations and reduce morale impact of missing goals.
+
+3. **Improve Reseller Channel Profitability:**  
+   The reseller channel needs strategic fixes. Consider training or incentivizing the sales team to focus on profitable deals rather than just volume. The data showed an average loss per salesperson and that some top-line sales are deeply unprofitable. The CEO could implement profit-based bonuses, stricter discount approval processes, or rebalance the product mix offered to resellers. It’s also worth identifying and spreading best practices from reps who are both selling and maintaining good margins. In some cases, it may involve pruning unprofitable reseller partnerships or raising prices where the value justifies it. The goal is to ensure every segment of the business contributes positively to the bottom line.
+
+4. **Capitalize on High-Margin Products:**  
+   Allocate more marketing and sales efforts to high-margin categories like Bike Accessories, which boast over 50% margin. These products deliver disproportionate profit for their sales and represent a growth opportunity. By increasing the sales of Accessories (through targeted promotions or bundling strategies), Adventure Works can boost profit without needing massive revenue increases. Simultaneously, examine low-margin categories (e.g., Components) to see if costs can be lowered or prices increased, or if the product mix should shift toward more profitable offerings. Product profitability insights should directly inform product development, pricing strategy, and promotional focus.
+
+5. **Maintain Excellence in Customer Fulfillment:**  
+   On-time delivery performance is strong and above target across all regions, which is a competitive advantage. The recommendation is to keep this as a priority – do not become complacent. For regions like Pacific that hover near the threshold, invest in logistics improvements or contingency plans (e.g., better forecasting or regional distribution centers) to ensure the delivery rate stays at 97% or above. High customer satisfaction from reliable shipping will support the company’s reputation and repeat sales, feeding the top-line growth. Thus, operations should continuously monitor delivery KPIs and address any emerging bottlenecks proactively.
+
+---
+
+**In summary:**  
+By implementing these strategic actions, the CEO can address the gaps and opportunities identified in the dashboards. In short, double down on the thriving online business, set realistic goals, optimize the reseller channel’s profitability, exploit profitable niches, and keep customers happy through reliable service. These data-driven insights and recommendations position Adventure Works for sustainable growth and improved profitability in the coming years.
 
