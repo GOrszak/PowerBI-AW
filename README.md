@@ -63,6 +63,14 @@ To introduce realistic data-quality challenges, the provided SQL script (`script
 
    * Use slicers, bookmarks, and visuals to investigate sales, margins, quotas, and shipping KPIs.
 
+
+
+## Performance Optimization
+
+* To ensure peak report responsiveness, the **Measure Killer** tool was employed to analyze and streamline DAX measures, reducing redundant calculations and improving overall query performance.
+
+
 ---
 
 *This solution demonstrates best practices in data modeling, DAX calculations, and report design tailored to Adventure Works Cycles’ business needs.*
+
