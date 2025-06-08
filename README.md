@@ -39,7 +39,7 @@ To introduce realistic data-quality challenges, the provided SQL script (`script
 ├── additional_data/
 │   ├── AW Quota.xlsx                  # Sales quota reference
 │   └── Validation Reports.xlsx        # Business verification samples
-├── Adventure Works Gabriel Orszak_Measure_Killer.pbix        # Power BI report file
+├── Finished.pbix        # Power BI report file
 ├── reports/
 │   └── screenshot.png                 # Sample dashboard preview
 └── README.md                          # Project overview and instructions
@@ -55,7 +55,7 @@ To introduce realistic data-quality challenges, the provided SQL script (`script
    * Run `scripts/AW-2017.update_script.sql` against the restored database.
 3. **Open Report**
 
-   * Launch `Adventure Works Gabriel Orszak_Measure_Killer.pbix` in Power BI Desktop (v2.XX+) and update the data source to your SQL connection.
+   * Launch `Finished.pbix` in Power BI Desktop (v2.XX+) and update the data source to your SQL connection.
 4. **Explore & Analyze**
 
    * Use slicers, bookmarks, and visuals to investigate sales, margins, quotas, and shipping KPIs.
